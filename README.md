@@ -1,0 +1,1 @@
+Coursework - Signing commit records for Git repositories
